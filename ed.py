@@ -31,5 +31,6 @@ conditions = [(df['delta'] == 0),(df['delta'] > 0),(df['delta'] < 0)]
 choices = ['No Difference','Female Higher','Male Higher']
 df['difference'] = np.select(conditions, choices)
 
-gb=df.groupby('difference').size()
+dif_group = df.groupby('difference').size()
+year_group = df.groupby('year')['delta'].mean()*100
 
