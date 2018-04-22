@@ -40,15 +40,15 @@ With Power Query [ready](https://www.excelcampus.com/install-power-query/) we be
 
 3. Then we combine our files. It is important to note that if you ever add another CSV file Power Query will try to reference this file. You can better future proof this by adding a filter for file name contains "_small" perhaps.
 
-	![Combine files](img/2-Combine Files.png)
+	![Combine files](img/2-CombineFiles.png)
 	
 4. Sometimes Power Query properly assesses headers. Sometimes you have to tell Power Query to use the first row as a header as shown below.  
 
-	![Ensure headers](img/2-Ensure headers.png)
+	![Ensure headers](img/2-EnsureHeaders.png)
 	
 5. Remember above when we created our data dictionary? We now want to 'find and replace' all of the current columns with the developer friendly column.  This step is a bit tricky.  It is important that in the previous phase you made sure that `VARIABLE NAME` was the first column followed by `developer-friendly name` as we are finding the first and replacing with the second in this step. Additionally, the query names spelling must be exact since we are referencing it explicitly. Power Query should have simply pulled the sheet name `data_dictionary` as the query name. Though if you renamed the query name be sure to use it in place here.  The quickest way I have found to do this is temporarily change any columns name and then overwrite the relevant portion of the formula as shown below.
 
-	![Batch rename](img/2-Batch rename.gif)
+	![Batch rename](img/2-BatchRename.gif)
 
 6. If Power Query did not correctly assess headers then you will have all of the other headers from the otehr files. We only promoted the first row of the first file which left all of the other files headers.  While filtering those out be sure to remove blanks, `null` values, and cases of `PrivacySuppressed`
 
