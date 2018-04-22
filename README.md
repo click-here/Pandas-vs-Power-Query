@@ -3,6 +3,7 @@
 ## Part 1
 Read multiple csv files and Excel file. Group, filter, and aggregate data. Perform column level math and basic grouping/aggregation math. 
 ### Excel
-### Pandas
+### [Pandas](./Part1/Pandas vs PowerQuery.ipynb)
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
