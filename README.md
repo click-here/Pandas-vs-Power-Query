@@ -5,4 +5,4 @@ Read multiple csv files and Excel file. Group, filter, and aggregate data. Perfo
 ### Excel
 ### Pandas
 
-[comment]: # (![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif))
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
