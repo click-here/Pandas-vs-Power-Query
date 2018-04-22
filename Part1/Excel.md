@@ -32,7 +32,7 @@ With Power Query [ready](https://www.excelcampus.com/install-power-query/) we be
 
 1. Next we need to reference the yearly CSV files so we are going to reference a folder instead of a single file so that we can pull them in simultaneously. Select edit in the next window as we did previously so we can refine our results.
 
-	![Load files](img/2-From Folder.png)
+	![Load files](img/2-FromFolder.png)
 	
 2. We have other files we do not want to reference that we can simply exclude with a filter by extension.
 
