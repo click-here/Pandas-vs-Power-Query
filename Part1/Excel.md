@@ -1,8 +1,8 @@
 # Reading and Grouping
 
-With Power Query [ready](https://www.excelcampus.com/install-power-query/) we begin by loading the college scorecard data dictionary.
+With Power Query [ready](https://www.excelcampus.com/install-power-query/), we begin by loading the college scorecard data dictionary.
 
-1. First we load the file from workbook
+1. First, we load the file from workbook
 
    ![From workbook](img/FromWorkbook.png)
 
@@ -10,11 +10,11 @@ With Power Query [ready](https://www.excelcampus.com/install-power-query/) we be
 
    ![Select dictionary sheet](img/SelectDicSheet.png)
    
-3. When selecting and then removing other columns the order that we select them will become the new order as shown below
+3. When selecting and then removing other columns, the order that we select them will become the new order as shown below
 
    ![Respect ordering](img/RemoveOtherColumns.gif)
    
-4. Next we remove `null` values from the `VARIABLE NAME` column by unselecting fromt the filter dropdown.
+4. Next we remove `null` values from the `VARIABLE NAME` column by unselecting from the filter dropdown.
 
     ![Remove null](img/RemoveNull.png)
 	
