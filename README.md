@@ -12,4 +12,8 @@ Read multiple csv files and an Excel file. Group, filter, and aggregate data. Pe
 
 
 ## Links
+Full Data set
+https://collegescorecard.ed.gov/data/
+
+More info regarding this data
 https://collegescorecard.ed.gov/data/documentation/
