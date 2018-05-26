@@ -19,4 +19,4 @@ More info regarding this data
 https://collegescorecard.ed.gov/data/documentation/
 
 
-## Part 2 - Time Card Nightmare! (Coming Soon)
+## Part 2 - Time Card Nightmare! [(Coming Soon)](https://github.com/click-here/Timecard-Nightmare)
