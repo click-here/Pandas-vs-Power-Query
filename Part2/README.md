@@ -33,7 +33,7 @@ Woah, what just happened? Unpivoting allows us to normalize our data. What is no
 
 	![sort](img/Sort.png)
 	
-When removing duplicates on a column Power Query keeps the first result which is why we sorted descending. We want to keep the greatest consumption per capita.  Consider the example below. If we remove duplicates on "Header1".
+When removing duplicates on a column, Power Query keeps the first result which is why we sorted descending. We want to keep the greatest consumption per capita.  Consider the example below. If we remove duplicates on "Header1".
 
 | Header1  | Header2 |
 | ------------- | ------------- |
@@ -49,7 +49,9 @@ We'll be left with:
 
 Here's the kicker regarding removal of duplicates in Power Query. It does not respect our sort unless we first buffer the table.  As far as I know you can only add this command via the advanced editor.
 
-8. Go into the Advanced Editor (on the View tab) and add the following under the last row *before* the **in** line.  #"Table Buffered" = Table.Buffer(#"Sorted Rows").  What does this mean? We are taking the last state of the data and wrapping it in the Table.Buffer method and 'saving' the result to a 'variable' called #"Table Buffered".
+8. Go into the Advanced Editor (on the View tab) and add the following under the last row *before* the **"in"** line.  #"Table Buffered" = Table.Buffer(#"Sorted Rows").  
+
+What does this mean? We are taking the last state of the data and wrapping it in the Table.Buffer method and 'saving' the result to a 'variable' called #"Table Buffered".
 
 We also need to modify the last line to return #"Table Buffered".
 
