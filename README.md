@@ -18,5 +18,7 @@ https://collegescorecard.ed.gov/data/
 More info regarding this data
 https://collegescorecard.ed.gov/data/documentation/
 
+## Part 2 - Finding the highest ranked x over n years.
 
-## Part 2 - Time Card Nightmare! [(Coming Soon)](https://github.com/click-here/Timecard-Nightmare)
+
+## Part 3 - Time Card Nightmare! [(Coming Soon)](https://github.com/click-here/Timecard-Nightmare)
