@@ -1,5 +1,3 @@
-# Understanding Table.Buffer(), Duplicate Removal, and Unpivoting.
-
 ## What question are we solving? 
 ## "Since 1960, by year, which country has had the largest per capita electrical energy consumption?"
 
