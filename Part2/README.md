@@ -1,7 +1,7 @@
 ### What question are we solving? 
 ### "Since 1960, by year, which country has had the largest per capita electrical energy consumption?"
 
-If you are new to Power Query I strongly recommend viewing Part 1 as this tutorial will assume some basic knowledge explained in Part 1.
+If you are new to Power Query I strongly recommend viewing [Part 1](https://github.com/click-here/Pandas-vs-Power-Query/tree/master/Part1#reading-and-grouping) as this tutorial will assume some basic knowledge explained in Part 1.
 
 ### Loading from the Web
 
