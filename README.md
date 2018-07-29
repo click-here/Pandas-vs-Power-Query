@@ -21,6 +21,6 @@ https://collegescorecard.ed.gov/data/documentation/
 ## Part 2 - Finding the highest ranked x over n years.
 Read a csv file from the web. Unpivot/data normalization, table buffering, and duplicate removal.
 
-### [Excel](Part2/README.md)
+### [Excel](https://github.com/click-here/Pandas-vs-Power-Query/tree/master/Part2#what-question-are-we-solving)
 
 ## Part 3 - Time Card Nightmare! [(Coming Soon)](https://github.com/click-here/Timecard-Nightmare)
