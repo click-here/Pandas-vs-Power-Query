@@ -23,4 +23,4 @@ Read a csv file from the web. Unpivot/data normalization, table buffering, and d
 
 ### [Excel](https://github.com/click-here/Pandas-vs-Power-Query/tree/master/Part2#what-question-are-we-solving)
 
-## Part 3 - Time Card Nightmare! ([Coming Soon](https://github.com/click-here/Timecard-Nightmare))
+## Part 3 - Time Card Nightmare! - [Coming Soon](https://github.com/click-here/Timecard-Nightmare)
