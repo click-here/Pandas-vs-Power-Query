@@ -62,7 +62,7 @@ Now we are left with one row per year where the country listed had the highest k
 ![Final Result](img/Final.png)
 
 ### Having issues with the query?
-Get the final mcode [here](https://github.com/click-here/Pandas-vs-Power-Query/blob/master/Part2/Query.m). Just paste into the advanced editor. Better yet. Diff your code alongside mine and see what you missed!
+Get the final mcode [here](https://github.com/click-here/Pandas-vs-Power-Query/blob/master/Part2/Query.m). Just paste into the advanced editor. Better yet. [Diff](https://www.diffchecker.com/) your code alongside mine and see what you missed!
 
 
 
