@@ -47,7 +47,7 @@ We'll be left with:
 
 Here's the kicker regarding removal of duplicates in Power Query. It does not respect our sort unless we first buffer the table.  As far as I know you can only add this command via the advanced editor.
 
-8. Go into the Advanced Editor (on the View tab) and add the following under the last row *before* the **"in"** line.  `#"Table Buffered" = Table.Buffer(#"Sorted Rows")`.  
+8. Go into the Advanced Editor (on the View tab) and add the following under the last row *before* the **"in"** line.  `#"Table Buffered" = Table.Buffer(#"Sorted Rows")` 
 
 What does this mean? We are taking the last state of the data and wrapping it in the `Table.Buffer` method and 'saving' the result to a 'variable' called `#"Table Buffered"`
 
