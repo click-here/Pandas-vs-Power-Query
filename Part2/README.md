@@ -60,6 +60,11 @@ We also need to modify the last line to return #"Table Buffered".
 Now we are left with one row per year where the country listed had the highest kWh per capita.
 
 
+### Having issues with the query?
+Get the final mcode [here](https://github.com/click-here/Pandas-vs-Power-Query/blob/master/Part2/Query.m). Just paste into the advanced editor. Better yet. Diff your code alongside mine and see what you missed!
+
+
+
 Data From the World Bank: https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC
 
 
