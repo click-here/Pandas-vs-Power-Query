@@ -53,7 +53,7 @@ What does this mean? We are taking the last state of the data and wrapping it in
 
 We also need to modify the last line to return #"Table Buffered".
 
-	![Advanced Editor](img/Comma.png)
+![Advanced Editor](img/Comma.png)
 	
 9. Lastly right click on the year column and remove duplicates. 
 
