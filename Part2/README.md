@@ -5,7 +5,7 @@ If you are new to Power Query I strongly recommend viewing Part 1 as this tutori
 
 ### Loading from the Web
 
-1. Assuming you have not cloned this project locally you can grab this data from the web.
+1. Assuming you have not cloned this project locally you can grab the requisite data from the web [here](https://raw.githubusercontent.com/click-here/Pandas-vs-Power-Query/master/Part2/API_EG.USE.ELEC.KH.PC_DS2_en_csv_v2_10034224.csv). Just paste this full link to complete this step.
 
 	![From web](img/ReadFileFromWeb.png)
 
