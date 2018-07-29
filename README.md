@@ -18,7 +18,7 @@ https://collegescorecard.ed.gov/data/
 More info regarding this data
 https://collegescorecard.ed.gov/data/documentation/
 
-## Part 2 - Finding the highest ranked x over n years.
+## Part 2 - Finding the highest ranked *x* over *n* years.
 Read a csv file from the web. Unpivot/data normalization, table buffering, and duplicate removal.
 
 ### [Excel](https://github.com/click-here/Pandas-vs-Power-Query/tree/master/Part2#what-question-are-we-solving)
