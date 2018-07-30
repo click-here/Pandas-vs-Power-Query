@@ -7,7 +7,7 @@ If you are new to Power Query I strongly recommend viewing Part 1 as subsequent 
 ## Part 1 - Reading and Grouping
 Read multiple csv files and an Excel file. Group, filter, and aggregate data. Perform column level math and basic grouping/aggregation math. 
 ### [Excel](Part1/README.md)
-### [Pandas](Part1/Pandas%20vs%20PowerQuery.ipynb)
+### [Python](Part1/Pandas%20vs%20PowerQuery.ipynb)
 
 
 
