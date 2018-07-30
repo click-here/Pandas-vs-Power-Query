@@ -22,5 +22,6 @@ https://collegescorecard.ed.gov/data/documentation/
 Read a csv file from the web. Unpivot/data normalization, table buffering, and duplicate removal.
 
 ### [Excel](https://github.com/click-here/Pandas-vs-Power-Query/tree/master/Part2#what-question-are-we-solving)
+### [Python](https://github.com/click-here/Pandas-vs-Power-Query/blob/master/Part2/main.py)
 
 ## Part 3 - Time Card Nightmare! - [Coming Soon](https://github.com/click-here/Timecard-Nightmare)
